@@ -1,0 +1,2 @@
+O código descobre apenas uma variável por vez além da distância onde os carros irão colidir, ou seja, você pode deixar em branco
+a velocidade de A que ele vai descobrir a distância e a velocidade de A , mas não pode pedir, por exemplo, a velocidade de A e a de B juntas.
